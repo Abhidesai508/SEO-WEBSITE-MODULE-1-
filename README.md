@@ -10,5 +10,5 @@ Github link: https://github.com/Abhidesai508/SEO-WEBSITE-MODULE-1-
 
 ## Screenshots
 
-![ Website Screenshot](./Develop/assets/images/Screenshot 2023-03-07 022308.png)
+![ Website Screenshot] (Abhidesai508/SEO-WEBSITE-MODULE-1-/Develop/assets/images/Screenshot 2023-03-07 022308.png)
 
