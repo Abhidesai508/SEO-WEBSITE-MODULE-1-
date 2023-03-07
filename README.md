@@ -10,6 +10,4 @@ Github link: https://github.com/Abhidesai508/SEO-WEBSITE-MODULE-1-
 
 ## Screenshots
 
-![ Website Screenshot] (./Develop/images/Screenshot 2023-03-07 022308.png
-)
-
+![Scrrenshot is half due to small screen](https://github.com/Abhidesai508/SEO-WEBSITE-MODULE-1-/blob/main/Develop/assets/images/Screenshot%202023-03-07%20022308.png) 
