@@ -2,6 +2,10 @@
 
 I completed my challenge 1 (SEO website)
 
+# Objective
+
+Refactored the code with assecebility requirements !
+
 ## Links
 
 Website link: https://abhidesai508.github.io/SEO-WEBSITE-MODULE-1-/
